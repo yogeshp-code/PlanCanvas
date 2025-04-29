@@ -3,8 +3,8 @@ import "@/app/globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
-  title: "Infrastructure Plan Visualizer",
-  description: "Visualize Terraform and AWS CDK infrastructure plans",
+  title: "PlanCanvas by Yogesh Patil",
+  description: "Visualize Terraform Plans",
     generator: 'yogesh.patil'
 }
 
