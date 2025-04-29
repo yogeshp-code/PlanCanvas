@@ -9,7 +9,7 @@ export default function Home() {
           <img src={`/logo3.png`} alt="Logo" className="h-20 w-60" />
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com/yourusername/infrastructure-plan-visualizer"
+              href="https://github.com/yogeshp-code/PlanCanvas"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 transition-colors"

@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata = {
   title: "Infrastructure Plan Visualizer",
   description: "Visualize Terraform and AWS CDK infrastructure plans",
-    generator: 'v0.dev'
+    generator: 'yogesh.patil'
 }
 
 export default function RootLayout({
